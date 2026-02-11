@@ -76,7 +76,7 @@ python -m venv .venv
 source .venv/bin/activate
 
 # Instalar dependências
-pip install numpy matplotlib scikit-image
+pip install -r requirements.txt
 ```
 
 ### Executando o Notebook
