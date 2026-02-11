@@ -11,6 +11,9 @@ Este projeto implementa um sistema de processamento de imagens utilizando técni
 ## Link do dataset utilizado
 [Dataset de imagens de Dados no Roboflow](https://universe.roboflow.com/workspace-spezm/dice-0sexk)
 
+## Link do vídeo explicativo - Youtube
+[Vídeo no youtube](https://www.youtube.com/watch?v=s1H1HGc5XgI)
+
 ## Objetivos
 
 O projeto tem como principais objetivos:
