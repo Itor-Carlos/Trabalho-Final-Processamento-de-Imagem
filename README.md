@@ -6,7 +6,7 @@
 
 ## Sobre o Projeto
 
-Este projeto implementa um sistema de processamento de imagens utilizando técnicas de visão computacional para detectar bordas em imagens de dados (dices). O trabalho aplica uma sequência de operações de processamento digital de imagens, incluindo conversão para escala de cinza, suavização, detecção de bordas através do filtro de Sobel e utilização da Transformada de Hough.
+Este projeto implementa um sistema de processamento de imagens utilizando técnicas de processamento de imagens para detectar os pontos das superfícieis dos dados. O trabalho aplica uma sequência de operações de processamento de imagens, incluindo conversão para escala de cinza, suavização, detecção de bordas através do filtro de Sobel, binarização e utilização da Transformada de Hough.
 
 ## Link do dataset utilizado
 [Dataset de imagens de Dados no Roboflow](https://universe.roboflow.com/workspace-spezm/dice-0sexk)
@@ -21,7 +21,8 @@ O projeto tem como principais objetivos:
 1. **Conversão de Imagens**: Transformar imagens coloridas em escala de cinza, removendo o canal alpha (transparência) quando presente
 2. **Suavização**: Aplicar filtro Gaussiano para reduzir ruídos e preparar as imagens para detecção de bordas
 3. **Detecção de Bordas**: Utilizar o filtro de Sobel para identificar e realçar as bordas dos dados nas imagens
-4. **Visualização**: Apresentar os resultados de cada etapa do processamento de forma comparativa
+4. **Binarização**: Aplicar um processo de limiarização para converter a imagem em escala de cinza em uma imagem binária,
+5. **Visualização**: Apresentar os resultados de cada etapa do processamento de forma comparativa
 
 ## Tecnologias Utilizadas
 
