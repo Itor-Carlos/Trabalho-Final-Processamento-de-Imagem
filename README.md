@@ -39,7 +39,7 @@ O projeto tem como principais objetivos:
 
 ```
 .
-├── Trabalho_Final__1_.ipynb    # Notebook principal com todo o código
+├── Trabalho_Final.ipynb    # Notebook principal com todo o código
 ├── dices/                       # Diretório com as imagens de dados (já incluído)
 │   ├── imagem1.png
 │   ├── imagem2.jpg
