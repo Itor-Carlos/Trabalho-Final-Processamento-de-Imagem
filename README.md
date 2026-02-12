@@ -61,7 +61,7 @@ O projeto tem como principais objetivos:
 #### Opção 1: Usando pip diretamente
 
 ```bash
-pip install numpy matplotlib scikit-image
+pip install -r requirements.txt
 ```
 
 #### Opção 2: Usando ambiente virtual (recomendado)
